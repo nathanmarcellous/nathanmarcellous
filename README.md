@@ -1,5 +1,9 @@
 <img width="1400" height="424" alt="github_banner" src="https://github.com/user-attachments/assets/46cf8a6e-2c94-4345-b2ca-9f94e97aa186" />
 
+<a href="https://www.linkedin.com/in/nathan-marcellous/"><img src="https://custom-icon-badges.demolab.com/badge/Nathan_Marcellous-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"></a>
+<a href="mailto:me@nathanmarcellous.com"><img alt="Email-Me" src="https://img.shields.io/badge/me@nathanmarcellous.com-047857?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="https://nathanmarcellous.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-E26352?style=for-the-badge&logo=globe&logoColor=white"></a>
+
 ## 👋 Hello! 
 Hi! My name is Nathan, and I am passionate about fullstack development and building engaging user experiences. With a sharp eye for design and a passion for clean, efficient code, I specialize in creating seamless web applications and interactive interfaces. Comfortable with web, mobile, and API development, I thrive on making ideas a reality by combining creativity and technical expertise. Whether I'm creating responsive websites, optimizing performance, or researching the latest frontend technologies, I'm committed to providing high-quality solutions that exceed expectations. Explore my repositories to view some of my projects, and please contact me if you want to collaborate or have any questions. Let us work together to create something extraordinary!
 
